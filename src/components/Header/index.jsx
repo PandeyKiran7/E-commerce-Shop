@@ -31,7 +31,7 @@ function Header() {
             >
               <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
             </svg>
-            <span className="ml-3 text-xl">E-Commerce</span>
+            <span className="ml-3 text-xl">KIRAN_STORE</span>
           </Link>
           <nav className="md:ml-auto flex flex-wrap items-center text-base justify-between w-full md:w-auto">
             <ul className="flex justify-center md:justify-start mb-4 md:mb-0">
